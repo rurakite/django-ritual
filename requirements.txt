@@ -1,4 +1,4 @@
-asgiref==3.7.2
+asgiref==3.7.0
 certifi==2023.5.7
 charset-normalizer==3.1.0
 cloudinary==1.33.0
@@ -7,10 +7,16 @@ dj3-cloudinary-storage==0.0.6
 Django==3.2.19
 gunicorn==20.1.0
 idna==3.4
+iniconfig==2.0.0
+packaging==23.1
+pluggy==1.0.0
 psycopg2-binary==2.9.6
+pytest==7.3.1
+pytest-django==4.5.2
 pytz==2023.3
 requests==2.31.0
 six==1.16.0
+SQLAlchemy==2.0.13
 sqlparse==0.4.4
-typing_extensions==4.6.2
+typing_extensions==4.5.0
 urllib3==1.26.16
